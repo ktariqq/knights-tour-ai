@@ -4,6 +4,7 @@ Interactive AI-based Knight’s Tour implementation using heuristic search and r
 ![Python](https://img.shields.io/badge/Python-3.x-8A2BE2.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-4B0082.svg)
 ![AI](https://img.shields.io/badge/Algorithm-Heuristic%20Search-6A0DAD.svg)
+![License](https://img.shields.io/badge/License-MIT-4B0082.svg)
 
 <div align="center">
 
